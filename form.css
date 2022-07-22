@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    width: 500px;
+    height: 650px;
+    margin: auto;
+    border: 1px solid purple;
+    margin-top: 50px;
+   padding-left: 110px;
+   padding-right: 150px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+span{
+    width: 200px;
+    display: inline-block; 
+}
+.blue-text{
+    width: 20%;
+    background-color: blue;
+color: white;
+border: none;
+}
+.red-text{
+ width: 20%;
+ background-color: red;
+color: white;
+border: none;
+}
+
+
+
